@@ -1,4 +1,9 @@
-# esp8266
-The Software Driver layer for the famous Wi-Fi Module esp8266 to be used in IoT applications
+# esp8266 Wi-Fi Module Software Layer
 
-#test
+The Software Driver layer for the famous Wi-Fi Module esp8266 to be used in IoT applications.
+
+Everyone Feel free to use this Software Layer but with reserve the Author rights.
+
+The Communication between MCU and esp8266 is using UART Communication whatever it is HW or SW UART.
+
+Enjoy IoT applications.
